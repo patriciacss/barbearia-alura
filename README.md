@@ -1,7 +1,7 @@
 # Projeto Curso HTML5 e CSS3 - Alura
 ![image](https://user-images.githubusercontent.com/104372195/171314720-8119ec53-bf0e-4977-be61-ca1667ccaf92.png)
 
-##Conteúdo
+## Conteúdo
 - Estrutura de um arquivo HTML5
 - Inspecionar elementos pelo navegador
 - Definir estilos para elementos usando CSS
